@@ -94,9 +94,9 @@ myshell/
 
 ├── executor.py
 
-├── builtins.py
+├── shellbuiltins.py
 
-├── process_manager.py
+├── processmanager.py
 
 ├── pipeline.py
 
@@ -108,6 +108,7 @@ myshell/
 
 └── config.py
 
+---
 
 🧠 How It Works
 
@@ -119,6 +120,8 @@ Pipes
 Background execution
 Execution is handled via subprocesses
 Output is returned to terminal
+
+---
 
 🔥 Example Usage
 
@@ -137,6 +140,8 @@ hello
 myshell:/home/user$ python server.py &
 [BG] PID: 12345
 
+---
+
 🧠 Key Concepts Learned
 
 This project strengthens understanding of:
@@ -147,6 +152,8 @@ Pipes and IPC (Inter-Process Communication)
 Command parsing systems
 Background vs foreground execution
 System-level thinking in software design
+
+---
 
 📈 Project Evolution
 
@@ -160,6 +167,8 @@ subprocess module
 os module
 signal handling (basic level)
 
+---
+
 🎯 Future Improvements (v5 roadmap)
 
 Job control (fg, bg)
@@ -169,6 +178,8 @@ Arrow key history navigation
 Terminal UI improvements
 Configuration file (.myshellrc)
 Plugin system
+
+---
 
 📌 Educational Value
 
@@ -182,6 +193,8 @@ Interview preparation (low-level thinking)
 
 This shell is not a production-ready shell, but a learning-oriented implementation of Unix-like behavior for educational purposes.
 
+---
+
 ⭐ Show Support
 
 If you find this project interesting:
@@ -189,6 +202,8 @@ If you find this project interesting:
 ⭐ Star the repo
 🍴 Fork it
 🧠 Use it to learn systems programming
+
+---
 
 👨‍💻 Author
 

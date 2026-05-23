@@ -81,21 +81,36 @@ pwd && ls && echo done
 
 The project is fully modular:
 
+
 myshell/
+
 │
+
 ├── main.py
+
 ├── shell.py
+
 ├── parser.py
+
 ├── executor.py
+
 ├── builtins.py
+
 ├── process_manager.py
+
 ├── pipeline.py
+
 ├── history.py
+
 ├── aliases.py
+
 ├── logger.py
+
 └── config.py
 
+
 🧠 How It Works
+
 User enters a command
 Input is parsed and analyzed
 Shell detects:
@@ -104,7 +119,9 @@ Pipes
 Background execution
 Execution is handled via subprocesses
 Output is returned to terminal
+
 🔥 Example Usage
+
 myshell:/home/user$ pwd
 /home/user
 
@@ -119,6 +136,7 @@ hello
 
 myshell:/home/user$ python server.py &
 [BG] PID: 12345
+
 🧠 Key Concepts Learned
 
 This project strengthens understanding of:
@@ -129,7 +147,9 @@ Pipes and IPC (Inter-Process Communication)
 Command parsing systems
 Background vs foreground execution
 System-level thinking in software design
+
 📈 Project Evolution
+
 v1: Basic command execution
 v2: Built-ins + parsing
 v3: Pipes, redirection, aliases, history
@@ -139,7 +159,9 @@ Python 3
 subprocess module
 os module
 signal handling (basic level)
+
 🎯 Future Improvements (v5 roadmap)
+
 Job control (fg, bg)
 Advanced parser (quotes, escape chars)
 Autocomplete (TAB support)
@@ -147,6 +169,7 @@ Arrow key history navigation
 Terminal UI improvements
 Configuration file (.myshellrc)
 Plugin system
+
 📌 Educational Value
 
 This project is ideal for:
@@ -166,6 +189,7 @@ If you find this project interesting:
 ⭐ Star the repo
 🍴 Fork it
 🧠 Use it to learn systems programming
+
 👨‍💻 Author
 
 Built by Bakhouche Mohamed Qamar Eddine a Computer Science student exploring Systems Programming, Operating Systems, and Low-level software design.

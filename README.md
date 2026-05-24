@@ -225,8 +225,11 @@ Plugin system
 This project is ideal for:
 
 Computer Science students
+
 Systems programming learners
+
 OS course practice
+
 Interview preparation (low-level thinking)
 
 
@@ -241,7 +244,9 @@ This shell is not a production-ready shell, but a learning-oriented implementati
 If you find this project interesting:
 
 ⭐ Star the repo
+
 🍴 Fork it
+
 🧠 Use it to learn systems programming
 
 ---

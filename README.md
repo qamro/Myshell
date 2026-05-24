@@ -74,7 +74,7 @@ pwd && ls && echo done
 
 ---
 
-🧠 System Features
+### 🧠 System Features
 
 📜 Command history tracking
 

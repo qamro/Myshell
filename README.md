@@ -26,7 +26,13 @@ This project evolves step-by-step from a basic command executor to a fully modul
 <img width="1620" height="1080" alt="Myshell" src="https://github.com/user-attachments/assets/d336b50a-1e56-47aa-bfcf-de595c0bd2c5" />
 
 
+
+<img width="1496" height="1080" alt="Myshell4" src="https://github.com/user-attachments/assets/ab08df32-ace9-4bfb-b6e2-42da190dd1df" />
+
+
+
 <img width="1606" height="1080" alt="Myshell2" src="https://github.com/user-attachments/assets/a87c0d18-38e5-424e-b026-992f996624f6" />
+
 
 
 <img width="1572" height="1080" alt="Myshell3" src="https://github.com/user-attachments/assets/67c58dfd-fdfe-4913-bcea-5140dca04edd" />

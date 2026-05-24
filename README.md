@@ -90,7 +90,7 @@ pwd && ls && echo done
 
 ---
 
-The project is fully modular:
+## The project is fully modular:
 
 
 myshell/
@@ -121,7 +121,7 @@ myshell/
 
 ---
 
-🧠 How It Works
+## 🧠 How It Works
 
 User enters a command
 Input is parsed and analyzed
@@ -134,7 +134,7 @@ Output is returned to terminal
 
 ---
 
-🔥 Example Usage
+## 🔥 Example Usage
 
 myshell:/home/user$ pwd
 /home/user
@@ -153,7 +153,7 @@ myshell:/home/user$ python server.py &
 
 ---
 
-🧠 Key Concepts Learned
+## 🧠 Key Concepts Learned
 
 This project strengthens understanding of:
 
@@ -166,7 +166,7 @@ System-level thinking in software design
 
 ---
 
-📈 Project Evolution
+## 📈 Project Evolution
 
 v1: Basic command execution
 v2: Built-ins + parsing
@@ -180,7 +180,7 @@ signal handling (basic level)
 
 ---
 
-🎯 Future Improvements (v5 roadmap)
+## 🎯 Future Improvements (v5 roadmap)
 
 Job control (fg, bg)
 Advanced parser (quotes, escape chars)
@@ -192,7 +192,7 @@ Plugin system
 
 ---
 
-📌 Educational Value
+## 📌 Educational Value
 
 This project is ideal for:
 
@@ -206,7 +206,7 @@ This shell is not a production-ready shell, but a learning-oriented implementati
 
 ---
 
-⭐ Show Support
+## ⭐ Show Support
 
 If you find this project interesting:
 
@@ -216,6 +216,6 @@ If you find this project interesting:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Built by Bakhouche Mohamed Qamar Eddine a Computer Science student exploring Systems Programming, Operating Systems, and Low-level software design.

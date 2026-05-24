@@ -137,19 +137,31 @@ Output is returned to terminal
 ## 🔥 Example Usage
 
 myshell:/home/user$ pwd
+
 /home/user
 
+
+
 myshell:/home/user$ ls | grep py
+
 main.py
+
 parser.py
+
+
 
 myshell:/home/user$ echo hello > file.txt
 
 myshell:/home/user$ cat file.txt
+
 hello
 
+
+
 myshell:/home/user$ python server.py &
+
 [BG] PID: 12345
+
 
 ---
 
@@ -169,13 +181,23 @@ System-level thinking in software design
 ## 📈 Project Evolution
 
 v1: Basic command execution
+
 v2: Built-ins + parsing
+
 v3: Pipes, redirection, aliases, history
+
 v4: Background processes, job handling, modular architecture
-🛠️ Tech Stack
+
+---
+
+## 🛠️ Tech Stack
+
 Python 3
+
 subprocess module
+
 os module
+
 signal handling (basic level)
 
 ---
@@ -183,11 +205,17 @@ signal handling (basic level)
 ## 🎯 Future Improvements (v5 roadmap)
 
 Job control (fg, bg)
+
 Advanced parser (quotes, escape chars)
+
 Autocomplete (TAB support)
+
 Arrow key history navigation
+
 Terminal UI improvements
+
 Configuration file (.myshellrc)
+
 Plugin system
 
 ---
@@ -200,7 +228,9 @@ Computer Science students
 Systems programming learners
 OS course practice
 Interview preparation (low-level thinking)
-⚠️ Disclaimer
+
+
+## ⚠️ Disclaimer
 
 This shell is not a production-ready shell, but a learning-oriented implementation of Unix-like behavior for educational purposes.
 

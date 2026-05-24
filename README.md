@@ -71,13 +71,24 @@ python server.py &
 🔁 Multiple Commands (&&)
 
 pwd && ls && echo done
+
+---
+
 🧠 System Features
+
 📜 Command history tracking
+
 🔖 Alias support
+
 📝 Command logging system
+
 🧪 Error handling
+
 🧼 Clean CLI experience
+
 🧱 Architecture
+
+---
 
 The project is fully modular:
 

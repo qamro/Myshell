@@ -134,14 +134,21 @@ myshell/
 
 ## 🧠 How It Works
 
-User enters a command
-Input is parsed and analyzed
-Shell detects:
-Built-in commands
-Pipes
-Background execution
-Execution is handled via subprocesses
-Output is returned to terminal
+• User enters a command
+
+• Input is parsed and analyzed
+
+• Shell detects:
+
+  Built-in commands
+
+  Pipes
+
+• Background execution
+
+• Execution is handled via subprocesses
+
+• Output is returned to terminal
 
 ---
 
@@ -180,54 +187,59 @@ myshell:/home/user$ python server.py &
 
 This project strengthens understanding of:
 
-Process creation & management
-Unix-like shell architecture
-Pipes and IPC (Inter-Process Communication)
-Command parsing systems
-Background vs foreground execution
-System-level thinking in software design
+• Process creation & management
+
+• Unix-like shell architecture
+
+• Pipes and IPC (Inter-Process Communication)
+
+• Command parsing systems
+
+• Background vs foreground execution
+
+• System-level thinking in software design
 
 ---
 
 ## 📈 Project Evolution
 
-v1: Basic command execution
+• v1: Basic command execution
 
-v2: Built-ins + parsing
+• v2: Built-ins + parsing
 
-v3: Pipes, redirection, aliases, history
+• v3: Pipes, redirection, aliases, history
 
-v4: Background processes, job handling, modular architecture
+• v4: Background processes, job handling, modular architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-Python 3
+• Python 3
 
-subprocess module
+• subprocess module
 
-os module
+• os module
 
-signal handling (basic level)
+• signal handling (basic level)
 
 ---
 
 ## 🎯 Future Improvements (v5 roadmap)
 
-Job control (fg, bg)
+• Job control (fg, bg)
 
-Advanced parser (quotes, escape chars)
+• Advanced parser (quotes, escape chars)
 
-Autocomplete (TAB support)
+• Autocomplete (TAB support)
 
-Arrow key history navigation
+• Arrow key history navigation
 
-Terminal UI improvements
+• Terminal UI improvements
 
-Configuration file (.myshellrc)
+• Configuration file (.myshellrc)
 
-Plugin system
+• Plugin system
 
 ---
 
@@ -235,13 +247,13 @@ Plugin system
 
 This project is ideal for:
 
-Computer Science students
+• Computer Science students
 
-Systems programming learners
+• Systems programming learners
 
-OS course practice
+• OS course practice
 
-Interview preparation (low-level thinking)
+• Interview preparation (low-level thinking)
 
 
 ## ⚠️ Disclaimer

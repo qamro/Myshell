@@ -104,31 +104,20 @@ pwd && ls && echo done
 ## The project is fully modular:
 
 
+```
 myshell/
-
-│
-
 ├── main.py
-
 ├── shell.py
-
 ├── parser.py
-
 ├── executor.py
-
 ├── shellbuiltins.py
-
 ├── processmanager.py
-
 ├── pipeline.py
-
 ├── history.py
-
 ├── aliases.py
-
 ├── logger.py
-
 └── config.py
+```
 
 ---
 

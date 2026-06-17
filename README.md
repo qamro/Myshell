@@ -75,11 +75,11 @@ It demonstrates knowledge in:
   ```bash
   ls | grep py | sort
 
-⚡ Background Processes (&)
+⚡ **Background Processes (&)**
 
 python server.py &
 
-🔁 Multiple Commands (&&)
+🔁 **Multiple Commands (&&)**
 
 pwd && ls && echo done
 
@@ -190,18 +190,6 @@ This project strengthens understanding of:
 
 ---
 
-## 📈 Project Evolution
-
-• v1: Basic command execution
-
-• v2: Built-ins + parsing
-
-• v3: Pipes, redirection, aliases, history
-
-• v4: Background processes, job handling, modular architecture
-
----
-
 ## 🛠️ Tech Stack
 
 • Python 3
@@ -214,7 +202,7 @@ This project strengthens understanding of:
 
 ---
 
-## 🎯 Future Improvements (v5 roadmap)
+## 🎯 Future Improvements 
 
 • Job control (fg, bg)
 
@@ -265,4 +253,4 @@ If you find this project interesting:
 
 ## 👨‍💻 Author
 
-Built by Bakhouche Mohamed Qamar Eddine a Computer Science student exploring Systems Programming, Operating Systems, and Low-level software design.
+Built by **Bakhouche Mohamed Qamar Eddine** a Computer Science student exploring Systems Programming, Operating Systems, and Low-level software design.

@@ -75,13 +75,13 @@ It demonstrates knowledge in:
   ```bash
   ls | grep py | sort
 
-⚡ **Background Processes (&)**
+- ⚡ **Background Processes (&)**
 
-python server.py &
+  python server.py &
 
-🔁 **Multiple Commands (&&)**
+- 🔁 **Multiple Commands (&&)**
 
-pwd && ls && echo done
+  pwd && ls && echo done
 
 ---
 
